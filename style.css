@@ -331,5 +331,15 @@ text-align: center;
   .profession{
     margin-right: 15px;
   }
+  
+  .column__left{
+    max-width: 95%;
+    margin: 0 auto;
+  }
+
+  .column__right{
+    max-width: 95%;
+    margin: 0 auto;
+  }
 
   }
