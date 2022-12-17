@@ -214,3 +214,25 @@ text-align: center;
 .softskills__columnright{
   padding-left: 50px;
 }
+
+.codeexamples{
+  max-width: 700px;
+  background-color: rgb(241, 238, 234);
+  border: 2px solid rgb(207, 170, 170) ;
+}
+
+.code__red{
+  color: red;
+}
+
+.code__purple{
+  color: purple;
+}
+
+.code__blue{
+  color:blue;
+}
+
+.code__green{
+  color: green;
+}
