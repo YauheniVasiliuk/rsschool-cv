@@ -55,7 +55,6 @@ text-align: center;
 
 
 .footer{
-  border: 1px solid red;
 }
 
 
@@ -159,6 +158,7 @@ text-align: center;
 }
 
 .contact:hover{
+  text-decoration: underline;
 }
 
 .cv__container{
@@ -193,6 +193,10 @@ text-align: center;
   border-radius: 25px;
 }
 
+.coursesicon:hover{
+
+}
+
 .courses__flex{
   display: flex;
   flex-direction: row;
@@ -204,7 +208,7 @@ text-align: center;
 }
 
 .skills__columnright{
-  padding-left: 100px;
+  margin-left: 100px;
 }
 
 .softskills__flex{
@@ -221,6 +225,12 @@ text-align: center;
   border: 2px solid rgb(207, 170, 170) ;
 }
 
+.codeexamples:hover{
+  max-width: 700px;
+  background-color: rgb(216, 213, 208);
+  border: 2px solid rgb(192, 142, 142) ;
+}
+
 .code__red{
   color: red;
 }
@@ -235,4 +245,33 @@ text-align: center;
 
 .code__green{
   color: green;
+}
+
+.travel{
+  border: 5px solid rgb(207, 170, 170) ;
+  width: 500px;
+  height: 250px;
+  margin-bottom: 50px;
+}
+
+.travel:hover{
+  border: 6px solid rgb(156, 63, 63) ;
+}
+
+.travel__img{
+  width: 100%;
+  height: 100%;
+}
+
+.footer__container{
+  display: flex;
+  justify-content: space-evenly;
+  background-color:#2d323b;
+  align-items: center;
+  
+}
+
+.year{
+  font-size: 48px;
+  color: white;
 }
