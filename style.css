@@ -118,6 +118,10 @@ text-align: center;
   padding-right: 10px;
 }
 
+.profession:hover{
+  background-color:#2d3648;
+}
+
 .profile{
   display: flex;
   justify-content: flex-start;
@@ -268,10 +272,28 @@ text-align: center;
   justify-content: space-evenly;
   background-color:#2d323b;
   align-items: center;
-  
+  padding-top: 20px;
+  padding-bottom: 20px;
 }
 
 .year{
-  font-size: 48px;
+  font-size: 36px;
   color: white;
+}
+
+.footericon{
+  max-width: 100px;
+  max-height: 50px;
+}
+
+.jobicon{
+  max-width: 200px;
+}
+
+.job__flex{
+  margin-top: 50px;
+}
+
+.langtext{
+  font-size: 18px;
 }
