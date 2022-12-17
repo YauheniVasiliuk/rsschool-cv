@@ -13,6 +13,8 @@ I'm going to become Frontend Developer in the future.
 + VSCode
 ## Education
 + Belarusian National Technical University
+
+
   Specialty: technological equipment of machine-building production
 + JS/FE Pre-School 2022Q4 in the process
 ## Experience
