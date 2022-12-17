@@ -297,3 +297,39 @@ text-align: center;
 .langtext{
   font-size: 18px;
 }
+
+@media (max-width:481px){
+
+  .profile{
+    flex-direction:column;}
+
+  .cv__container{
+    flex-direction: column;
+  }
+
+  .nav-list{
+    display: none;
+  }
+  
+  .travel{
+    max-width: 400px;
+  }
+
+  .travel__img{
+    max-width: 400px;
+  }
+
+  .codeexamples{
+    max-width: 400px;
+    font-size: 8px;
+  }
+
+  .userpic{
+    padding-left: 35px;
+  }
+
+  .profession{
+    margin-right: 15px;
+  }
+
+  }
